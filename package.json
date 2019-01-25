@@ -11,19 +11,28 @@
   },
   "devDependencies": {
     "axios": "^0.18",
+    "babel-helper-vue-jsx-merge-props": "^2.0.3",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-vue-jsx": "^3.7.0",
+    "babel-preset-env": "^1.7.0",
     "bootstrap": "^4.0.0",
+    "browser-sync": "^2.26.3",
+    "browser-sync-webpack-plugin": "^2.0.1",
+    "compression-webpack-plugin": "^2.0.0",
     "cross-env": "^5.1",
+    "eslint-config-ruker": "github:BCGen/eslint-config-ruker",
     "jquery": "^3.2",
     "laravel-mix": "^4.0.7",
     "lodash": "^4.17.5",
     "popper.js": "^1.12",
     "resolve-url-loader": "^2.3.1",
+    "ruker-rule": "github:BCGen/ruker-rule",
     "sass": "^1.15.2",
     "sass-loader": "^7.1.0",
+    "stylelint-config-ruker": "github:BCGen/stylelint-config-ruker",
     "vue": "^2.5.17",
-    "ruker-rule": "github:BCGen/ruker-rule",
-    "eslint-config-ruker": "github:BCGen/eslint-config-ruker",
-    "stylelint-config-ruker": "github:BCGen/stylelint-config-ruker"
+    "vue-template-compiler": "^2.5.21",
+    "webpack-bundle-analyzer": "^3.0.3"
   },
   "name": "laraTest",
   "version": "1.0.0",
@@ -34,5 +43,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "ag-grid-community": "^19.1.4",
+    "ag-grid-vue": "^19.1.2",
+    "ant-design-vue": "^1.3.0",
+    "autosize": "^4.0.2",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "clockpicker": "0.0.7",
+    "iview": "^3.2.2",
+    "quasar-framework": "^0.17.19",
+    "vue-flatpickr-component": "^8.1.1",
+    "vue-tables-2": "^1.4.70",
+    "vuetable-2": "^2.0.0-beta.4"
+  }
 }

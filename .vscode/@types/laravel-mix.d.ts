@@ -10,7 +10,7 @@ declare module 'laravel-mix' {
     react(src: string | string[], output: string): LaravelMix
 
     // Library Code Splitting
-    extract(src: Array<string>): LaravelMix
+    extract(src?: Array<string>): LaravelMix
 
     // BrowserSync
     browserSync(option: string | BrowserSyncOptions): LaravelMix

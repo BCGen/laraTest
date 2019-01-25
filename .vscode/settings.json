@@ -1,7 +1,7 @@
 {
   // Text Editor
   "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
+  // "editor.formatOnPaste": true,
 
   // Eslint
   "eslint.autoFixOnSave": true,
@@ -31,7 +31,6 @@
   "scss.validate": false,
 
   // Vetur
-  "vetur.format.defaultFormatter.html": "none",
+  // "vetur.format.defaultFormatter.html": "none",
   "vetur.format.defaultFormatter.js": "none",
-  "vetur.format.styleInitialIndent": true
 }

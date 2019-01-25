@@ -1,6 +1,9 @@
 extends:
   - ruker
 
+rules:
+  vue/max-attributes-per-line: 0
+
 globals:
   _: false
   $: false

@@ -1,0 +1,14 @@
+{
+  "Account" : "帳號",
+  "Confirm Password" : "密碼確認",
+  "E-Mail" : "信箱",
+  "E-Mail Address" : "信箱",
+  "Home" : "首頁",
+  "Login" : "登入",
+  "Logout": "登出",
+  "Name" : "姓名",
+  "Password" : "密碼",
+  "Register" : "註冊",
+  "Remember Me" : "記住我",
+  "You are logged in!": "登入成功!"
+}
